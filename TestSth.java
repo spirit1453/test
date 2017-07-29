@@ -10,7 +10,8 @@ class TestSth
 		//for master
 		//for branch2
 int c =23;
-			
+
+int d =23;
 	}
 
 }
