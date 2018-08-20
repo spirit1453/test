@@ -1,3 +1,3 @@
-let a= 12
+let a= 'sdfsdf'
 
 module.exports = a
