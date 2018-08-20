@@ -1,3 +1,3 @@
-let a= 'sdfsdf'
+let a= 'winner'
 
 module.exports = a
